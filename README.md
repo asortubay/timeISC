@@ -1,5 +1,9 @@
 # timeISC
-Pytorch implementation of Time-resolved Inter-Subject Correlation Prediction, see  *"Real-Time Estimation of Overt Attention from Dynamic Features of the Face Using Deep Learning"*, presented at the 2025 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC) paper proceeding link: https://ieeexplore.ieee.org/abstract/document/11254013 preprint link: https://arxiv.org/abs/2409.13084 
+Pytorch implementation of Time-resolved Inter-Subject Correlation Prediction, see  *"Real-Time Estimation of Overt Attention from Dynamic Features of the Face Using Deep Learning"*, presented at the 2025 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC) 
+
+paper proceeding link: https://ieeexplore.ieee.org/abstract/document/11254013 
+
+preprint link: https://arxiv.org/abs/2409.13084 
 
 **Abstract:**
 
