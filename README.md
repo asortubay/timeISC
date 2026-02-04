@@ -1,5 +1,5 @@
 # timeISC
-Pytorch implementation of Time-resolved Inter-Subject Correlation Prediction, see  *"Real-time estimation of overt attention from dynamic features of the face using deep-learning"*, arXiv link: https://arxiv.org/abs/2409.13084 
+Pytorch implementation of Time-resolved Inter-Subject Correlation Prediction, see  *"Real-Time Estimation of Overt Attention from Dynamic Features of the Face Using Deep Learning"*, presented at the 2025 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC) paper proceeding link: https://ieeexplore.ieee.org/abstract/document/11254013 preprint link: https://arxiv.org/abs/2409.13084 
 
 **Abstract:**
 
@@ -10,12 +10,13 @@ Students often drift in and out of focus during class. Effective teachers recogn
 
 If helpful, please cite: 
 
-@misc{ortubay2024realtimeestimationovertattention,
-      title={Real-time estimation of overt attention from dynamic features of the face using deep-learning}, 
-      author={Aimar Silvan Ortubay and Lucas C. Parra and Jens Madsen},
-      year={2024},
-      eprint={2409.13084},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2409.13084}, 
-}
+@INPROCEEDINGS{11254013,
+  author={Silvan, Aimar and Parra, Lucas C. and Madsen, Jens},
+  booktitle={2025 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)}, 
+  title={Real-Time Estimation of Overt Attention from Dynamic Features of the Face Using Deep Learning}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-5},
+  keywords={Deep learning;Visualization;Correlation;Webcams;Face recognition;Manuals;Predictive models;Real-time systems;Labeling;Monitoring},
+  doi={10.1109/EMBC58623.2025.11254013}}
